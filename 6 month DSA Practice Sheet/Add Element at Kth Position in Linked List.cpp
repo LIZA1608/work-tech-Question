@@ -1,7 +1,6 @@
 
 /*https://workat.tech/problem-solving/practice/add-kth-element-linked-list*/
 
-
 /* This is the ListNode class definition
 
 class ListNode {
@@ -15,7 +14,6 @@ public:
 	}
 };
 */
-
 ListNode* addAtkthElement (ListNode* head, int k, ListNode* newElement) {
     // add your logic here
 	int idx=0;
