@@ -1,3 +1,4 @@
 # work-tech-Question
 
-this repo contains the solution of work@tech dsa sheet questions
+this repo contains the solution of work@tech dsa sheet questions in c++ 
+
