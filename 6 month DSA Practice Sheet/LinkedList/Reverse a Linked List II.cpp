@@ -1,5 +1,18 @@
 /*https://workat.tech/problem-solving/practice/reverse-linked-list-ii*/
 
+/* This is the ListNode class definition
+
+class ListNode {
+public:
+	int data;
+	ListNode* next;
+
+	ListNode(int data) {
+		this->data = data;
+		this->next = NULL;
+	}
+};
+*/
 ListNode* reverse(ListNode *head) {
 	ListNode* prevNode = NULL, *currentNode = head;
 	while (currentNode != NULL) {
